@@ -1,73 +1,83 @@
-<h1 align="center">¡Hola! 👋 I'm Pabel Iván Méndez Chambi</h1>
-
-<h3 align="center">🌐 Frontend / Web Developer &nbsp;·&nbsp; 🧪 REST API Tester</h3>
-
+<!-- ====================== BANNER / TYPING ====================== -->
 <p align="center">
   <a href="https://github.com/JayLoKing">
-    <img src="https://img.shields.io/badge/GitHub-JayLoKing-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=560&lines=Hola%2C+soy+Pabel+Iv%C3%A1n+M%C3%A9ndez+Chambi;Frontend+Developer;Desde+Bolivia+%F0%9F%87%A7%F0%9F%87%B4" alt="Typing SVG" />
   </a>
-  <a href="mailto:mendezpabel41@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</p>
+
+<!-- ====================== BADGES SUPERIORES ====================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JayLoKing&label=Visitas%20al%20perfil&color=61dafb&style=flat-square" alt="Profile views"/>
+  <a href="https://github.com/JayLoKing?tab=followers">
+    <img src="https://img.shields.io/github/followers/JayLoKing?label=Seguidores&style=flat-square&color=blueviolet" alt="Followers"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JayLoKing&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%2F%20Web-blue?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Located-Bolivia%20%F0%9F%87%A7%F0%9F%87%B4-green?style=flat-square" alt="Location"/>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí / About me
+## 🧑‍💻 Sobre mí · About me
 
-🇪🇸 **Español**
-Soy desarrollador **Frontend / Web** con enfoque en construir interfaces limpias, funcionales y responsivas. Además trabajo de la mano con equipos de **backend**, realizando **pruebas de APIs REST**, validación de endpoints y coordinación técnica para asegurar que la comunicación entre cliente y servidor funcione correctamente.
+🇪🇸 Desarrollador **Frontend** boliviano 🇧🇴, enfocado en construir interfaces limpias, responsivas y fáciles de usar. Me gusta cuidar los detalles de la experiencia de usuario y trabajar en equipo para llevar los proyectos a producción.
 
-🇬🇧 **English**
-I'm a **Frontend / Web** developer focused on building clean, functional and responsive interfaces. I also work closely with **backend** teams — **testing REST APIs**, validating endpoints and coordinating technically to make sure the client–server communication works reliably.
+🇬🇧 Bolivian **Frontend** developer focused on building clean, responsive and user-friendly interfaces. I care about the details of the user experience and enjoy working in teams to ship projects to production.
 
-- 📍 Basado en **Bolivia** 🇧🇴 / *Based in Bolivia*
-- 🔭 Enfocado en desarrollo web y consumo/pruebas de APIs / *Focused on web development and API testing*
-- 🤝 Colaboro con equipos backend en proyectos privados / *Collaborate with backend teams on private projects*
-- 🌱 Siempre aprendiendo nuevas tecnologías / *Always learning new technologies*
-- 💬 Pregúntame sobre / *Ask me about:* Frontend, HTML/CSS/JS, REST APIs, Postman
+```yaml
+nombre:        "Pabel Iván Méndez Chambi"
+rol:           "Frontend Developer"
+ubicacion:     "Bolivia 🇧🇴"
+enfoque:       ["Interfaces web", "Experiencia de usuario", "Desarrollo responsivo"]
+aprendiendo:   ["Inglés (intermedio)", "Nuevas tecnologías frontend"]
+colaboracion:  "Abierto a proyectos y trabajo en equipo"
+```
 
 ---
 
-## 🛠️ Habilidades & Tecnologías / Skills & Tech Stack
+## 🗣️ Idiomas · Languages
 
-**Lenguajes / Languages**
+| Idioma | Nivel | |
+|--------|-------|---|
+| 🇪🇸 Español | **Nativo** / Native | ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600) |
+| 🇬🇧 Inglés · English | **Intermedio (en aprendizaje)** / Intermediate (learning) | ![60%](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=006600) |
 
+---
+
+## 🛠️ Habilidades & Tecnologías · Skills & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" alt="Frontend skills"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,postman,git,github,vscode&theme=dark" alt="Backend & tools skills"/>
+</p>
+
+**Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend / APIs**
-
+**Backend · APIs · Herramientas**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-**Herramientas & Testing / Tools & Testing**
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-> 💡 *Edita esta lista para reflejar exactamente las tecnologías que usas / Edit this list to match the exact tech you use.*
+> 💡 *Ajusta esta lista a las tecnologías que realmente usas · Edit this list to match your real stack.*
 
 ---
 
-## 📊 Estadísticas de GitHub / GitHub Stats
+## 📊 Estadísticas de GitHub · GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayLoKing&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayLoKing&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JayLoKing&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayLoKing&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -75,26 +85,30 @@ I'm a **Frontend / Web** developer focused on building clean, functional and res
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayLoKing&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayLoKing&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JayLoKing&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 </p>
 
 ---
 
-## 🧩 Experiencia destacada / Highlighted Experience
+## 🧩 Experiencia destacada · Highlighted Experience
 
-🇪🇸 He participado como **colaborador** en proyectos de tipo API / e-commerce como **ImportadoraJavierito** (sistema de importadora en Java) y **roca_express_api**, donde me encargué de **probar y validar endpoints REST**, reportar incidencias y coordinar con los responsables del backend para asegurar la integración.
+🇪🇸 He participado como **colaborador** en proyectos de tipo e-commerce como **ImportadoraJavierito** y **roca_express_api**, aportando en el desarrollo y coordinando con el equipo para sacar adelante las funcionalidades del proyecto.
 
-🇬🇧 I've contributed as a **collaborator** on API / e-commerce projects like **ImportadoraJavierito** (Java-based importer system) and **roca_express_api**, where I was responsible for **testing and validating REST endpoints**, reporting issues and coordinating with backend owners to ensure integration.
+🇬🇧 I've contributed as a **collaborator** on e-commerce projects like **ImportadoraJavierito** and **roca_express_api**, helping with development and coordinating with the team to deliver the project's features.
 
-> 🔒 *Varios de estos repositorios son privados, por lo que no aparecen públicamente en el perfil / Several of these repositories are private, so they don't appear publicly.*
+> 🔒 *Varios de estos repositorios son privados, por lo que no aparecen públicamente · Several of these repositories are private and don't appear publicly.*
 
-### 🏆 Logros / Achievements
+### 🏆 Logros · Achievements
 ![Pull Shark](https://img.shields.io/badge/Pull_Shark-x2-2088FF?style=flat-square&logo=github&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-🚀-9C27B0?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-%F0%9F%9A%80-9C27B0?style=flat-square)
 
 ---
 
-## 📫 Contacto / Contact
+## 📫 Contacto · Contact
 
 <p align="center">
   <a href="mailto:mendezpabel41@gmail.com">
@@ -105,4 +119,8 @@ I'm a **Frontend / Web** developer focused on building clean, functional and res
   </a>
 </p>
 
-<p align="center"><i>Gracias por visitar mi perfil · Thanks for visiting my profile ✨</i></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+<p align="center"><i>“Aprendiendo algo nuevo cada día” · “Learning something new every day” ✨</i></p>
