@@ -40,7 +40,7 @@ Mi **visión** es crecer como profesional creando productos digitales sólidos, 
 > 
 > 🎯 &nbsp; **Enfoque:** Interfaces web responsivas · Arquitecturas · Consumo de REST APIs · Buenas prácticas
 > 
-> 🧰 &nbsp; **Stack principal:** HTML · CSS · JavaScript · TypeScript · React
+> 🧰 &nbsp; **Stack principal:** HTML · CSS · JavaScript · TypeScript · React 
 > 
 > 🗣️ &nbsp; **Idiomas:** Español (nativo) · Inglés (intermedio)
 > 
@@ -79,9 +79,9 @@ Mi **visión** es crecer como profesional creando productos digitales sólidos, 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" alt="Frontend technologies"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,mysql,postgres&theme=dark" alt="Backend & databases"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs,nestjs,bun,mysql,postgres&theme=dark" alt="Backend & databases"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,visualstudio&theme=dark" alt="Tools"/>
 </p>
 
 **Frontend**
@@ -99,7 +99,10 @@ Mi **visión** es crecer como profesional creando productos digitales sólidos, 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 **Bases de datos · Databases**
 
@@ -112,6 +115,12 @@ Mi **visión** es crecer como profesional creando productos digitales sólidos, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Rspack](https://img.shields.io/badge/Rspack-F93920?style=for-the-badge&logo=rspack&logoColor=white)
 
 > 💡 *Ajusta esta lista a las tecnologías que realmente usas · Edit this list to match your real stack.*
 
