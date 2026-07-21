@@ -22,6 +22,7 @@ Soy desarrollador **Frontend / Web** con enfoque en construir interfaces limpias
 🇬🇧 **English**
 I'm a **Frontend / Web** developer focused on building clean, functional and responsive interfaces. I also work closely with **backend** teams — **testing REST APIs**, validating endpoints and coordinating technically to make sure the client–server communication works reliably.
 
+- 📍 Basado en **Bolivia** 🇧🇴 / *Based in Bolivia*
 - 🔭 Enfocado en desarrollo web y consumo/pruebas de APIs / *Focused on web development and API testing*
 - 🤝 Colaboro con equipos backend en proyectos privados / *Collaborate with backend teams on private projects*
 - 🌱 Siempre aprendiendo nuevas tecnologías / *Always learning new technologies*
@@ -37,6 +38,7 @@ I'm a **Frontend / Web** developer focused on building clean, functional and res
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Frontend**
 
@@ -80,11 +82,15 @@ I'm a **Frontend / Web** developer focused on building clean, functional and res
 
 ## 🧩 Experiencia destacada / Highlighted Experience
 
-🇪🇸 He participado como **colaborador** en proyectos privados de tipo API/e-commerce (por ejemplo, sistemas de importadora y APIs de gestión), donde me encargué de **probar y validar endpoints REST**, reportar incidencias y coordinar con los responsables del backend para asegurar la integración.
+🇪🇸 He participado como **colaborador** en proyectos de tipo API / e-commerce como **ImportadoraJavierito** (sistema de importadora en Java) y **roca_express_api**, donde me encargué de **probar y validar endpoints REST**, reportar incidencias y coordinar con los responsables del backend para asegurar la integración.
 
-🇬🇧 I've contributed as a **collaborator** on private API / e-commerce projects (e.g. importer systems and management APIs), where I was responsible for **testing and validating REST endpoints**, reporting issues and coordinating with backend owners to ensure integration.
+🇬🇧 I've contributed as a **collaborator** on API / e-commerce projects like **ImportadoraJavierito** (Java-based importer system) and **roca_express_api**, where I was responsible for **testing and validating REST endpoints**, reporting issues and coordinating with backend owners to ensure integration.
 
-> 🔒 *Estos repositorios son privados, por lo que no aparecen públicamente en el perfil / These repositories are private, so they don't appear publicly.*
+> 🔒 *Varios de estos repositorios son privados, por lo que no aparecen públicamente en el perfil / Several of these repositories are private, so they don't appear publicly.*
+
+### 🏆 Logros / Achievements
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-x2-2088FF?style=flat-square&logo=github&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-🚀-9C27B0?style=flat-square)
 
 ---
 
