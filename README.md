@@ -19,9 +19,17 @@
 
 ## 🧑‍💻 Sobre mí · About me
 
-🇪🇸 Desarrollador **Frontend** boliviano 🇧🇴, enfocado en construir interfaces limpias, responsivas y fáciles de usar. Me gusta cuidar los detalles de la experiencia de usuario y trabajar en equipo para llevar los proyectos a producción.
+**ES** — Soy Pabel, desarrollador **Frontend** boliviano 🇧🇴 apasionado por transformar ideas en interfaces web claras, rápidas y agradables de usar. Disfruto todo el proceso de construir un producto: desde entender la necesidad real del usuario hasta cuidar cada detalle visual y de interacción en pantalla.
 
-🇬🇧 Bolivian **Frontend** developer focused on building clean, responsive and user-friendly interfaces. I care about the details of the user experience and enjoy working in teams to ship projects to production.
+Mi **visión** es crecer como profesional creando experiencias digitales que combinen buen diseño y código limpio, aportando valor real a las personas y a los equipos con los que trabajo. Creo en el aprendizaje constante, en la colaboración honesta y en escribir código simple y mantenible, pensado para quien lo usará después.
+
+**Principios que guían mi trabajo:**
+- 🎯 **El usuario primero** — interfaces claras, accesibles y fáciles de usar.
+- 🧱 **Código limpio y ordenado** — simple de leer y de mantener.
+- 🤝 **Trabajo en equipo** — comunicación abierta y honesta.
+- 📚 **Mejora continua** — siempre hay algo nuevo por aprender.
+
+**EN** — I'm Pabel, a Bolivian **Frontend** developer passionate about turning ideas into clear, fast and pleasant web interfaces. I enjoy the whole process of building a product — from understanding the real user need to caring about every visual and interaction detail. My vision is to grow by crafting digital experiences that blend good design with clean code, guided by user-first thinking, teamwork and constant learning.
 
 ```yaml
 nombre:        "Pabel Iván Méndez Chambi"
@@ -38,8 +46,8 @@ colaboracion:  "Abierto a proyectos y trabajo en equipo"
 
 | Idioma | Nivel | |
 |--------|-------|---|
-| 🇪🇸 Español | **Nativo** / Native | ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600) |
-| 🇬🇧 Inglés · English | **Intermedio (en aprendizaje)** / Intermediate (learning) | ![60%](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=006600) |
+| Español | **Nativo** / Native | ![100%](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600) |
+| Inglés · English | **Intermedio (en aprendizaje)** / Intermediate (learning) | ![60%](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9900&successColor=006600) |
 
 ---
 
@@ -96,9 +104,9 @@ colaboracion:  "Abierto a proyectos y trabajo en equipo"
 
 ## 🧩 Experiencia destacada · Highlighted Experience
 
-🇪🇸 He participado como **colaborador** en proyectos de tipo e-commerce como **ImportadoraJavierito** y **roca_express_api**, aportando en el desarrollo y coordinando con el equipo para sacar adelante las funcionalidades del proyecto.
+**ES** — He participado como **colaborador** en proyectos de tipo e-commerce como **ImportadoraJavierito** y **roca_express_api**, aportando en el desarrollo y coordinando con el equipo para sacar adelante las funcionalidades del proyecto.
 
-🇬🇧 I've contributed as a **collaborator** on e-commerce projects like **ImportadoraJavierito** and **roca_express_api**, helping with development and coordinating with the team to deliver the project's features.
+**EN** — I've contributed as a **collaborator** on e-commerce projects like **ImportadoraJavierito** and **roca_express_api**, helping with development and coordinating with the team to deliver the project's features.
 
 > 🔒 *Varios de estos repositorios son privados, por lo que no aparecen públicamente · Several of these repositories are private and don't appear publicly.*
 
