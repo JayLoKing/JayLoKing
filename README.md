@@ -19,35 +19,36 @@
 
 ## 🧑‍💻 Sobre mí · About me
 
-**ES** — Soy Pabel, desarrollador **Frontend** boliviano 🇧🇴 apasionado por transformar ideas en interfaces web claras, rápidas y agradables de usar. Disfruto todo el proceso de construir un producto: desde entender la necesidad real del usuario hasta cuidar cada detalle visual y de interacción en pantalla.
+**ES** — Soy Pabel, desarrollador **Frontend** boliviano 🇧🇴 apasionado por transformar ideas en interfaces web claras, rápidas y bien construidas. Disfruto todo el proceso de desarrollo: desde entender el requerimiento hasta construir soluciones bien estructuradas, siguiendo buenas prácticas y una arquitectura ordenada.
 
-Mi **visión** es crecer como profesional creando experiencias digitales que combinen buen diseño y código limpio, aportando valor real a las personas y a los equipos con los que trabajo. Creo en el aprendizaje constante, en la colaboración honesta y en escribir código simple y mantenible, pensado para quien lo usará después.
+Mi **visión** es crecer como profesional creando productos digitales sólidos, que combinen código limpio y una buena arquitectura, aportando valor real a las personas y a los equipos con los que trabajo. Creo en el aprendizaje constante, en la colaboración honesta y en escribir código simple y mantenible, pensado para quien lo usará después.
 
 **Principios que guían mi trabajo:**
-- 🎯 **El usuario primero** — interfaces claras, accesibles y fáciles de usar.
-- 🧱 **Código limpio y ordenado** — simple de leer y de mantener.
+- 🏗️ **Arquitectura y buenas prácticas** — código estructurado y siguiendo estándares.
+- 🧱 **Código limpio y mantenible** — simple de leer, escalar y mantener.
+- 🔗 **Integración con APIs** — consumo eficiente de REST APIs.
 - 🤝 **Trabajo en equipo** — comunicación abierta y honesta.
 - 📚 **Mejora continua** — siempre hay algo nuevo por aprender.
 
-**EN** — I'm Pabel, a Bolivian **Frontend** developer passionate about turning ideas into clear, fast and pleasant web interfaces. I enjoy the whole process of building a product — from understanding the real user need to caring about every visual and interaction detail. My vision is to grow by crafting digital experiences that blend good design with clean code, guided by user-first thinking, teamwork and constant learning.
+**EN** — I'm Pabel, a Bolivian **Frontend** developer passionate about turning ideas into clear, fast and well-built web interfaces. I enjoy the whole development process — from understanding the requirement to building well-structured solutions following good practices and clean architecture. My vision is to grow by crafting solid digital products that blend clean code with good architecture, guided by best practices, teamwork and constant learning.
 
-```yaml
-pabel_ivan_mendez_chambi:
-  rol:            "Frontend Developer"
-  ubicacion:      "Bolivia 🇧🇴"
-  enfoque:
-    - "Interfaces web modernas y responsivas"
-    - "Experiencia de usuario (UX/UI)"
-    - "Código limpio y reutilizable"
-  stack_principal: ["HTML", "CSS", "JavaScript", "TypeScript", "React"]
-  idiomas:
-    espanol:      "Nativo"
-    ingles:       "Intermedio (en aprendizaje)"
-  soft_skills:    ["Trabajo en equipo", "Comunicación", "Resolución de problemas"]
-  aprendiendo:    "Nuevas tecnologías frontend, cada día 🚀"
-  colaboracion:   "Abierto a proyectos y trabajo en equipo"
-  contacto:       "mendezpabel41@gmail.com"
-```
+&nbsp;
+
+> 🧑‍💻 &nbsp; **Rol:** Frontend Developer
+> 
+> 📍 &nbsp; **Ubicación:** Bolivia 🇧🇴
+> 
+> 🎯 &nbsp; **Enfoque:** Interfaces web responsivas · Arquitecturas · Consumo de REST APIs · Buenas prácticas
+> 
+> 🧰 &nbsp; **Stack principal:** HTML · CSS · JavaScript · TypeScript · React · C# · .NET
+> 
+> 🗣️ &nbsp; **Idiomas:** Español (nativo) · Inglés (intermedio)
+> 
+> 🌱 &nbsp; **Aprendiendo:** Nuevas tecnologías y UI/UX
+> 
+> 🤝 &nbsp; **Colaboración:** Abierto a proyectos y trabajo en equipo
+> 
+> 📫 &nbsp; **Contacto:** mendezpabel41@gmail.com
 
 ---
 
@@ -62,10 +63,11 @@ pabel_ivan_mendez_chambi:
 
 ## 🧠 Habilidades · Skills
 
-- 🎨 **Maquetación y diseño responsivo** (mobile-first) · *Responsive layout & design*
+- 🏗️ **Arquitecturas de software** · *Software architecture*
+- 🔗 **Consumo e integración de REST APIs** · *REST API integration*
+- ✅ **Buenas prácticas de desarrollo** · *Development best practices*
 - 🧩 **Interfaces con componentes reutilizables** · *Component-based UIs*
-- 🔗 **Integración de APIs en el frontend** · *API integration on the frontend*
-- ♿ **HTML semántico y accesibilidad** · *Semantic HTML & accessibility*
+- 🗄️ **Modelado y manejo de bases de datos** · *Database modeling & management*
 - 🌿 **Control de versiones con Git** · *Version control with Git*
 - 🤝 **Trabajo en equipo y colaboración** · *Teamwork & collaboration*
 - 🧠 **Resolución de problemas y aprendizaje autónomo** · *Problem solving & self-learning*
@@ -77,7 +79,9 @@ pabel_ivan_mendez_chambi:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" alt="Frontend technologies"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,git,github,vscode&theme=dark" alt="Tools & other technologies"/>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,java,mysql,postgres&theme=dark" alt="Backend & databases"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
 </p>
 
 **Frontend**
@@ -90,10 +94,20 @@ pabel_ivan_mendez_chambi:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Herramientas · Tools**
+**Backend · Lenguajes**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Bases de datos · Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**Herramientas · Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
