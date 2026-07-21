@@ -32,12 +32,21 @@ Mi **visión** es crecer como profesional creando experiencias digitales que com
 **EN** — I'm Pabel, a Bolivian **Frontend** developer passionate about turning ideas into clear, fast and pleasant web interfaces. I enjoy the whole process of building a product — from understanding the real user need to caring about every visual and interaction detail. My vision is to grow by crafting digital experiences that blend good design with clean code, guided by user-first thinking, teamwork and constant learning.
 
 ```yaml
-nombre:        "Pabel Iván Méndez Chambi"
-rol:           "Frontend Developer"
-ubicacion:     "Bolivia 🇧🇴"
-enfoque:       ["Interfaces web", "Experiencia de usuario", "Desarrollo responsivo"]
-aprendiendo:   ["Inglés (intermedio)", "Nuevas tecnologías frontend"]
-colaboracion:  "Abierto a proyectos y trabajo en equipo"
+pabel_ivan_mendez_chambi:
+  rol:            "Frontend Developer"
+  ubicacion:      "Bolivia 🇧🇴"
+  enfoque:
+    - "Interfaces web modernas y responsivas"
+    - "Experiencia de usuario (UX/UI)"
+    - "Código limpio y reutilizable"
+  stack_principal: ["HTML", "CSS", "JavaScript", "TypeScript", "React"]
+  idiomas:
+    espanol:      "Nativo"
+    ingles:       "Intermedio (en aprendizaje)"
+  soft_skills:    ["Trabajo en equipo", "Comunicación", "Resolución de problemas"]
+  aprendiendo:    "Nuevas tecnologías frontend, cada día 🚀"
+  colaboracion:   "Abierto a proyectos y trabajo en equipo"
+  contacto:       "mendezpabel41@gmail.com"
 ```
 
 ---
@@ -51,12 +60,24 @@ colaboracion:  "Abierto a proyectos y trabajo en equipo"
 
 ---
 
-## 🛠️ Habilidades & Tecnologías · Skills & Tech Stack
+## 🧠 Habilidades · Skills
+
+- 🎨 **Maquetación y diseño responsivo** (mobile-first) · *Responsive layout & design*
+- 🧩 **Interfaces con componentes reutilizables** · *Component-based UIs*
+- 🔗 **Integración de APIs en el frontend** · *API integration on the frontend*
+- ♿ **HTML semántico y accesibilidad** · *Semantic HTML & accessibility*
+- 🌿 **Control de versiones con Git** · *Version control with Git*
+- 🤝 **Trabajo en equipo y colaboración** · *Teamwork & collaboration*
+- 🧠 **Resolución de problemas y aprendizaje autónomo** · *Problem solving & self-learning*
+
+---
+
+## 🛠️ Tecnologías · Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" alt="Frontend skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind&theme=dark" alt="Frontend technologies"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,postman,git,github,vscode&theme=dark" alt="Backend & tools skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,git,github,vscode&theme=dark" alt="Tools & other technologies"/>
 </p>
 
 **Frontend**
@@ -68,11 +89,9 @@ colaboracion:  "Abierto a proyectos y trabajo en equipo"
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend · APIs · Herramientas**
+**Herramientas · Tools**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
